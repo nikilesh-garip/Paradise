@@ -2,10 +2,10 @@ body {
   padding: 50px;
   font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
   background-color: #ad0a0d;
-  text-shadow: #770002;
+  text-shadow: 4px 4px 4px#770002;
   color: aquamarine;
   text-align: center;
-
+  
 }
 
 a {
